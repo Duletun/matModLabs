@@ -2,5 +2,7 @@
 Лабораторные работы по математическому и компьютерному моделированию
 
 Анимация столкновения двух волн:
-https://github.com/Duletun/matModLabs/assets/76465730/1eb0b04b-0594-4d1a-85e0-88d72fa49175
+![collision](https://github.com/Duletun/matModLabs/assets/76465730/4196bc60-54a7-4106-b94e-bf0f32835ddb)
+
+
 
